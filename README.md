@@ -173,9 +173,10 @@ class Harini:
 ---
 
 ## 🌱 Currently Learning
-🧱 AWS Architecture    → VPC · CloudFormation · ECS · RDS
-⚙️  DevOps             → Docker · Kubernetes · CI/CD · GitHub Actions
-🎨 Advanced UI/UX     → Interaction Design · Design Systems · Accessibility
+
+🧱 AWS Architecture    → VPC · CloudFormation · ECS · RDS |
+⚙️  DevOps             → Docker · Kubernetes · CI/CD · GitHub Actions |
+🎨 Advanced UI/UX     → Interaction Design · Design Systems · Accessibility |
 📐 System Design      → Scalability · Caching · Load Balancing
 
 ---
