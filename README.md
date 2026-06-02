@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harinigomathinayagam&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
