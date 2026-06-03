@@ -127,8 +127,9 @@ class Harini:
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
+|[**Smart Image Upload and Analysis**](#)| Python . AWS Lambda . IAM . S3 . AWS DynamoDB . AWS Rekognition . AWS Cloudwatch | A serverless AWS project that automatically analyzes uploaded images using Amazon Rekognition and stores detected labels in DynamoDB. |
 | [**Expense Tracker**](#) | Python · Flask · SQLite · HTML · CSS · JS | Full-stack web app with category-wise analytics and secure user authentication |
-| [**Blog API – AWS Serverless**](#) | AWS Lambda · API Gateway · DynamoDB · IAM · Python · Postman | Fully serverless RESTful API for CRUD blog operations deployed on AWS |
+| [**Blog API – AWS Serverless**](#) | AWS Lambda · API Gateway · AWS DynamoDB · IAM · Python · Postman | Fully serverless RESTful API for CRUD blog operations deployed on AWS |
 | [**Text-to-Speech Automation**](#) | AWS Lambda · Amazon Polly · S3 · API Gateway · Python · Postman | Automated audio generation pipeline: text in → S3-stored audio out via Polly |
 | [**Weather Record Logger**](#) | MongoDB · Express.js · React.js · Node.js · HTML · CSS · JS | Responsive MERN stack app to log, store, and manage weather records |
 
